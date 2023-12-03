@@ -9,6 +9,10 @@ courses:
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
+research:
+- {name: 'Real Estate in Luxembourg', url: 'luxembourg-real-estate'}
+
+
 social:
 - {icon: 'github', link: 'https://github.com/'}
 - {icon: 'twitter', link: 'https://twitter.com/'}
