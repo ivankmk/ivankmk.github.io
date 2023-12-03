@@ -4,4 +4,26 @@ layout: default
 
 {{ content }}
 
-{% include projects.html %}
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Projects</h3>
+    {% for project in site.data.settings.projects %}
+
+        <div class="card mb-3" style="max-width: 540px;">
+            <div class="row g-0">
+            <div class="col-md-4">
+                <img src="..." class="img-fluid rounded-start" alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                <h5 class="card-title">{{ project.name }}</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <a href="{{ site.github.url }}/projects/{{ project.url}}" class="btn btn-primary">Check product</a>
+                </div>
+            </div>
+            </div>
+        </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Landing for real estate reseach</h3>
+
+    <ul class="list-group">
+      {% for product in site.data.project_real_estate_luxembourg.all %}
+      <li class="list-group-item">
+        {% if product.new == 'new' %}
+            <p>{{ product.name }} <span class="badge rounded-pill bg-success">new!</span></p>
+        {% else %}
+            <p>{{ product.name }}</p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+
+
+
+
+
+  </div>
+</div>

@@ -1,18 +1,14 @@
 menu:
-- {name: 'research', url: '/research'}
 - {name: 'projects', url: '/projects'}
 - {name: 'courses', url: '/courses'}
-
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
-research:
-- {name: 'Real Estate in Luxembourg - October', url: 'luxembourg-real-estate-october-2023'}
-- {name: 'Real Estate in Luxembourg - November', url: 'luxembourg-real-estate-november-2023'}
-- {name: 'Real Estate in Luxembourg - December', url: 'luxembourg-real-estate-december-2023'}
+projects:
+- {name: 'Real Estate in Luxembourg', url: 'projects-luxembourg-real-estate'}
 
 
 social:

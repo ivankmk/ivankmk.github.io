@@ -1,0 +1,4 @@
+all:
+- {name: 'October 2023', payed: 'stripe.com', free: 'free.pdf', new: old}
+- {name: 'November 2023', payed: 'stripe.com', free: 'free.pdf', new: old}
+- {name: 'December 2023', payed: 'stripe.com', free: 'free.pdf', new: new}
