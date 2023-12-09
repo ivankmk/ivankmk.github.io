@@ -1,16 +1,14 @@
 menu:
 - {name: 'projects', url: '/projects'}
 - {name: 'courses', url: '/courses'}
+- {name: 'contact', url: 'mailto:rind.dungeon_0d@icloud.com'}
 
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'WIP', url: 'vector-calculus'}
 
 projects:
-- {name: 'Real Estate in Luxembourg', url: 'projects-luxembourg-real-estate'}
+- {name: 'Luxembourg Housing Market Analysis', subtitle: "Exploring the Dynamics of Luxembourg's Housing Market: A Comprehensive Monthly Analysis", url: 'project-luxembourg-housing-market', banner: '/assets/projects/luxembourg-housing-market/banner.png'}
 
 
 social:
-- {icon: 'github', link: 'https://github.com/'}
-- {icon: 'twitter', link: 'https://twitter.com/'}
+- {icon: 'envelope', link: "mailto:rind.dungeon_0d@icloud.com"}
