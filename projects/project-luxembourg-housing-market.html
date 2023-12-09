@@ -4,15 +4,15 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Landing for real estate reseach</h3>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">Monthly Housing Analysis</h4>
 
     <ul class="list-group">
       {% for product in site.data.project_real_estate_luxembourg.all %}
       <li class="list-group-item">
         {% if product.new == 'new' %}
-            <p>{{ product.name }} <span class="badge rounded-pill bg-success">new!</span></p>
+           <p> <a href="{{ site.github.url }}/projects/project-luxembourg-housing-market/{{product.page}}">{{ product.name }}</a>  <span class="badge rounded-pill bg-success">new!</span></p>
         {% else %}
-            <p>{{ product.name }}</p>
+          <p> <a href="{{ site.github.url }}/projects/project-luxembourg-housing-market/{{product.page}}">{{ product.name }}</a>
         {% endif %}
       </li>
       {% endfor %}
