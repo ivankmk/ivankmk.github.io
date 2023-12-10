@@ -2,11 +2,13 @@ $backgroundColor: #ffffff;
 $bodyColor: #14213d;
 $bodyFont: "Afacad";
 $linkColor: #14213d !important;
+$fontSize: 16px;
 
 body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: $fontSize;
 }
 
 body a {
