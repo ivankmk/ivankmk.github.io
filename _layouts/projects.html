@@ -6,13 +6,13 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Projects</h3>
+    <h3 class="fw-bold pb-3 mb-5">Projects</h3>
     {% for project in site.data.settings.projects %}
 
         <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
             <div class="col-md-4">
-                <img src="{{ site.github.url }}{{ project.banner}}" class="img-fluid rounded-start" alt="{{ site.github.url }}{{ project.banner}}">
+                <img src="{{ site.github.url }}{{ project.banner}}" class="img-fluid rounded-start project-image" alt="{{ site.github.url }}{{ project.banner}}">
             </div>
             <div class="col-md-8">
                 <div class="card-body">

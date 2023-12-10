@@ -1,0 +1,27 @@
+body {
+    background: #fff;
+    color: #14213d;
+    font-family: "Afacad";
+    font-size: 18px;
+}
+
+body a {
+    color: #14213d !important;
+}
+
+
+.responsive-image {
+    max-width: 100%; /* ensures the image is never more than 100% of its parent container */
+    height: auto;    /* maintains the aspect ratio */
+    display: block;  /* remove extra space around the image */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .project-image {
+    width: 100%;        /* Make the image use all available horizontal space */
+    height: auto;       /* Scale the height automatically to maintain the aspect ratio */
+    display: block;     /* Display block to remove any extra space below the image */
+    object-fit: cover;  /* This will cover the area of the container without stretching the image */
+    /* border-radius: 10px; Presuming you want to maintain the border-radius as in your screenshot */
+  }
