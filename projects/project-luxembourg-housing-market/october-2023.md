@@ -26,7 +26,7 @@ As of 2023, Luxembourg comprises 12 cantons, each playing a significant role in 
 The chart illustrates the average real estate prices per square meter across various cantons in Luxembourg for October 2023. Luxembourg canton tops the list with the highest average price at €11,410, while Wiltz is the most affordable at €5,250. The majority of cantons have prices ranging between €6,000 and €7,000, indicating a middle price tier. The data shows significant price disparities.
 
 <center><div>
-<img src="generated_charts/chart1_prices_canton_october_2023.png" width="700"/>
+<img src="generated_charts/chart1_prices_canton_october_2023.png"/>
 </div></center>
 
 #### <center> Monthly ads distribution
@@ -34,7 +34,7 @@ The chart illustrates the average real estate prices per square meter across var
 In October 2023, the Luxembourg housing market advertising was predominantly concentrated in the Luxembourg and Esch-sur-Alzette cantons, accounting for 32% and 28% of total ads respectively, highlighting them as the most active markets. Capellen followed with a significant 14%, while the remaining cantons such as Mersch, Diekirch, and others like Grevenmacher and Clervaux, displayed a more modest presence, ranging from 2% to 6%. This distribution underscores a centralization of housing interest in the capital and its adjacent regions, with a tapering off in the outer cantons, suggesting a potential focus for real estate investment and development in the central cantons.
 
 <center><div>
-<img src="generated_charts/chart2_ads_distribution_canton_october_2023.png" width="1000"/>
+<img src="generated_charts/chart2_ads_distribution_canton_october_2023.png"/>
 </div></center>
 
 #### <center> Correlation with distance from the capital
@@ -42,7 +42,7 @@ In October 2023, the Luxembourg housing market advertising was predominantly con
 The scatter plot of October 2023 reveals a varied landscape for the Luxembourg real estate market, with a notable trend indicating that proximity to the Gare Centrale correlates with higher average square meter prices. Luxembourg leads with the highest prices, reflecting its status as a prime location, while a gradual decrease in prices can be observed as the distance to the city center increases, showcasing more affordable options in cantons like Clervaux and Wiltz. The central regions, including Cappellen, Mersch, and Esch-sur-Alzette, offer a mid-range market, balancing proximity to urban amenities with more moderate pricing. The data suggests that while the allure of the city center remains strong, there is a diverse array of housing options catering to different preferences and budgets across the cantons.
 
 <center><div>
-<img src="generated_charts/chart3_price_distance_corr_canton_october_2023.png" width="800"/>
+<img src="generated_charts/chart3_price_distance_corr_canton_october_2023.png"/>
 </div></center>
 
 Want to see more?
