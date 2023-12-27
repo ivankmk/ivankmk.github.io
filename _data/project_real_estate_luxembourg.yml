@@ -1,4 +1,4 @@
 all:
-- {name: 'October 2023', payed: 'stripe.com', page: 'october-2023', new: old}
-- {name: 'November 2023', payed: 'stripe.com', page: 'november-2023', new: old}
-- {name: 'December 2023', payed: 'stripe.com', page: 'december-2023', new: new}
+- {name: 'October 2023', payed_report_url: 'stripe.com', page: 'october-2023', new: old}
+- {name: 'November 2023', payed_report_url: 'stripe.com', page: 'november-2023', new: old}
+- {name: 'December 2023', payed_report_url: 'stripe.com', page: 'december-2023', new: new}
