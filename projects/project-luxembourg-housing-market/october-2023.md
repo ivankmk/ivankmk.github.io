@@ -72,10 +72,12 @@ The chart presents a clear negative correlation between the average square meter
 
 <br>
 
-### Interested in the Complete Analysis?
+### Interested in the Detailed Analysis for 12 Cantons?
 
-This is just a glimpse of the comprehensive insights available in our full Luxembourg Housing Market Analysis report. The complete version offers extensive details.
+You can buy a full ~40 pages report for each canton where I am summarizing monthly prices, ads distribution, price correlations, and unique market dynamics. Discover invaluable information and trends in a format that’s both insightful and easy to understand, providing a clear overview of the real estate landscape for informed planning and analysis.
 
 [🔒 Buy Full PDF Report](#)
 
-**Get the full picture to make informed investment decisions.**
+<center><div>
+<img src="generated_charts/support_images/support_preview_2.png" class="responsive-image"/>
+</div></center>

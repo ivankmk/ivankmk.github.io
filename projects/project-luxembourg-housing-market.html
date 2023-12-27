@@ -4,16 +4,25 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h4 class="fw-bold pb-3 mb-5">Monthly Housing Analysis</h4>
+    <h4 class="fw-bold pb-3 mb-1">Monthly Housing Analysis</h4>
+    <p class="mb-5">This research presents an informed analysis of Luxembourg's housing market, derived from a methodical review of
+      nearly 350 real estate agencies across the country. Significant time is invested in monitoring each agency and
+      delving into the current trends of the housing market. On a regular basis, new listings are personally
+      scrutinized, with a particular emphasis on three key aspects: price, size, and location. This deliberate approach
+      offers a comprehensive overview of the data, aiding in the understanding of market tendencies. The project's
+      individualized method of tracking each advertisement contributes to a detailed and nuanced view of Luxembourg's
+      housing landscape.</p>
 
     <ul class="list-group">
       {% for product in site.data.project_real_estate_luxembourg.all %}
       <li class="list-group-item">
         {% if product.new == 'new' %}
-           <p> <a href="{{ site.github.url }}/projects/project-luxembourg-housing-market/{{product.page}}">{{ product.name }}</a>  <span class="badge rounded-pill bg-success">new!</span></p>
+        <p> <a href="{{ site.github.url }}/projects/project-luxembourg-housing-market/{{product.page}}">{{ product.name
+            }}</a> <span class="badge rounded-pill bg-success">new!</span></p>
         {% else %}
-          <p> <a href="{{ site.github.url }}/projects/project-luxembourg-housing-market/{{product.page}}">{{ product.name }}</a>
-        {% endif %}
+        <p> <a href="{{ site.github.url }}/projects/project-luxembourg-housing-market/{{product.page}}">{{ product.name
+            }}</a>
+          {% endif %}
       </li>
       {% endfor %}
     </ul>
