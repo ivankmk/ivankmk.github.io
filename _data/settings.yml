@@ -7,7 +7,7 @@ courses:
 - {name: 'WIP', url: 'vector-calculus'}
 
 projects:
-- {name: 'Luxembourg Housing Market Analysis', subtitle: "Exploring the Dynamics of Luxembourg's Housing Market: A Comprehensive Monthly Analysis", url: 'project-luxembourg-housing-market', banner: '/assets/projects/luxembourg-housing-market/banner.png', last_updated: '27 December'}
+- {name: 'Luxembourg Housing Market Analysis', subtitle: "Exploring the Dynamics of Luxembourg's Housing Market: A Comprehensive Monthly Analysis", url: 'project-luxembourg-housing-market', banner: '/assets/projects/luxembourg-housing-market/banner.png', last_updated: '27 December 2023'}
 
 
 social:
