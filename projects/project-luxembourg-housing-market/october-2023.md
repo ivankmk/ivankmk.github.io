@@ -13,7 +13,7 @@ title: ""
 
 #### <i> <strong> Disclaimer </strong> </i>
 
-<i> This analysis provides an overview of the asking prices by homeowners in Luxembourg's real estate market and should not be interpreted as the final transaction prices, which may differ. The information is intended for informational purposes only and does not represent official market data or statistics. The presented data is based on personal observations and publicly available sources, without any guarantee of reliability or quality. Market fluctuations and changes may occur, and this analysis might not reflect the most current conditions. No responsibility is assumed for decisions or actions taken based on this information. Users should conduct their own due diligence or seek professional advice for comprehensive market insights. </i>
+<i> This analysis provides an overview of the asking prices by homeowners in Luxembourg's real estate market and should <strong>not be interpreted as the final transaction prices</strong>, which may differ. <strong>The information is intended for informational purposes only and does not represent official market data or statistics</strong>. The presented data is based on personal observations and publicly available sources, without any guarantee of reliability or quality. Market fluctuations and changes may occur, and this analysis might not reflect the most current conditions. No responsibility is assumed for decisions or actions taken based on this information. Users should conduct their own due diligence or seek professional advice for comprehensive market insights. </i>
 
 <br>
 
@@ -44,7 +44,7 @@ As of 2023, Luxembourg comprises 12 cantons, each playing a significant role in 
      </div>
 </center>
 
-The chart displays the average square meter price for real estate in various cantons of Luxembourg for October 2023. Luxembourg canton has the highest price at €11,410 per square meter, indicating a strong demand or premium valuation in this region. In contrast, Wiltz canton exhibits the lowest average price at €5,250, which is less than half of Luxembourg's average. There appears to be a significant spatial price variation across the cantons, which could have implications for housing policy and market dynamics within the country.
+The chart displays the average square meter price for real estate in various cantons of Luxembourg for October 2023. Luxembourg canton has the highest price at €11,410 per square meter, indicating a strong demand or premium valuation in this region. In contrast, Wiltz canton exhibits the lowest average price at €5,250, which is less than half of Luxembourg's average. There appears to be a significant spatial price variation across the cantons, which could have implications for market dynamics within the country.
 
 <br>
 
@@ -58,7 +58,7 @@ The chart displays the average square meter price for real estate in various can
 
 <br>
 
-This chart displays the distribution of advertisements across different cantons in October 2023, with Luxembourg receiving the largest share at 32%, followed by Esch-sur-Alzette at 28%, and Capellen at 14%. Other cantons, such as Mersch, Diekirch, Grevenmacher, and the rest, have significantly smaller shares, ranging from 1% to 6%. The data suggests that ad distribution is heavily concentrated in the Luxembourg and Esch-sur-Alzette cantons, which could indicate areas of focus for marketing efforts or population density.
+This chart displays the distribution of advertisements across different cantons in October 2023, with Luxembourg receiving the largest share at 32%, followed by Esch-sur-Alzette at 28%, and Capellen at 14%. Other cantons, such as Mersch, Diekirch, Grevenmacher, and the rest, have significantly smaller shares, ranging from 1% to 6%. The data suggests that ad distribution is heavily concentrated in the Luxembourg and Esch-sur-Alzette cantons.
 
 <br>
 
