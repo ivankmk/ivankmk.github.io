@@ -7,7 +7,7 @@ title: ""
 <img src="generated_charts/support_images/support_title.png" class="responsive-image"/>
 </div></center>
 
-## <center> November 2023</center>
+## <center> December 2023</center>
 
 <br>
 
@@ -34,17 +34,17 @@ As of 2023, Luxembourg comprises 12 cantons, each playing a significant role in 
         <table>
         <tr>
             <td>
-                <img src="generated_charts/chart1_prices_canton_november_2023.png" class="responsive-image"/>
+                <img src="generated_charts/chart1_prices_canton_december_2023.png" class="responsive-image"/>
             </td>
             <td>
-            <img src="generated_charts/map1_prices_canton_november_2023.png" class="responsive-image"/>
+            <img src="generated_charts/map1_prices_canton_december_2023.png" class="responsive-image"/>
             </td>
         </tr>
         </table>
      </div>
 </center>
 
-In November 2023, the average square meter price for real estate across different cantons in Luxembourg showed significant regional variance. Luxembourg Canton led with the highest average price at €11,640 per square meter, while Wiltz Canton offered the most affordable average at €5,210 per square meter. Other notable figures include Capellen and Mersch in the mid-range, with averages of €8,690 and €7,820 respectively. The chart illustrates a clear price gradient, descending from the most expensive canton in the capital region to more economical prices in the northern regions.
+The chart displays the average square meter prices by canton in Luxembourg for December 2023. Luxembourg canton leads with the highest average price at €11,360 per square meter. Cantons Capellen and Grevenmacher follow with considerable lower averages at €8,400 and €7,640 respectively. On the lower end of the spectrum, Wiltz and Vianden present the most affordable prices at €4,840 and €4,110 respectively. Prices exhibit significant regional variation, indicating a diverse real estate market across the country.
 
 <br>
 
@@ -53,22 +53,22 @@ In November 2023, the average square meter price for real estate across differen
 #### <strong> Monthly ads distribution </strong>
 
 <center><div>
-<img src="generated_charts/chart2_ads_distribution_canton_november_2023.png" class="responsive-image"/>
+<img src="generated_charts/chart2_ads_distribution_canton_december_2023.png" class="responsive-image"/>
 </div></center>
 
 <br>
 
-In November 2023, the Luxembourg canton had the highest share of real estate ads at 36%, followed by Esch-sur-Alzette with 25%. Capellen came in third with 13% of the ads, indicating a clear concentration of real estate activity in these regions. Other cantons such as Diekirch (5%), Mersch (6%), and Remich (3%) had moderate representation, while the remaining cantons, including Grevenmacher, Redange, Clervaux, Wiltz, Echternach, and Vianden had relatively low ad distributions, ranging from 1% to 3%. This points to a potential focus of housing market activity within Luxembourg's central and southern cantons.
+In December 2023, real estate advertising in Luxembourg was predominantly concentrated in the Luxembourg canton with 36% of the total ads, followed by Esch-sur-Alzette at 23%, and Capellen at 15%. The remaining cantons—Mersch, Grevenmacher, Remich, Diekirch, Redange, Wiltz, Echternach, and Clervaux—collectively accounted for 26% of the ads, with individual contributions ranging from 1% to 7%. This distribution highlights a significant skew towards the central regions with Luxembourg and Esch-sur-Alzette accounting for the majority of real estate activity.
 
 <br>
 
 #### <strong> Correlation with distance from the capital </strong>
 
 <center><div>
-<img src="generated_charts/chart3_price_distance_corr_canton_november_2023.png" class="responsive-image"/>
+<img src="generated_charts/chart3_price_distance_corr_canton_december_2023.png" class="responsive-image"/>
 </div></center>
 
-The chart illustrates a negative correlation between the average price per square meter for properties and their distance from the city center (Gare Centrale) in November 2023. Canton Luxembourg has the highest property prices and is closest to the center, with prices declining as the distance increases. Locations like Diekirch, Vianden, and Wiltz offer much lower prices but are situated considerably farther from Gare Centrale. The data suggests that proximity to the city center significantly influences property values across various regions.
+The chart indicates a negative correlation between the average square meter price of properties and their distance from the city center in December 2023. Luxembourg city displays the highest property prices along with the shortest distance to the city center, which implies a premium on proximity to the central hub. As the distance from the city center increases, the average price per square meter generally decreases, with cities like Clervaux, Wiltz, and Vianden showing significantly lower prices at greater distances.
 
 <br>
 
@@ -76,13 +76,8 @@ The chart illustrates a negative correlation between the average price per squar
 
 You can buy a full ~40 pages report for each canton where I am summarizing monthly prices, ads distribution, price correlations, and unique market dynamics. Discover invaluable information and trends in a format that’s both insightful and easy to understand, providing a clear overview of the real estate landscape for informed planning and analysis.
 
-[🔒 Buy Full PDF Report](https://ivankmk.gumroad.com/l/saowm)
+[🔒 Buy Full PDF Report](https://ivankmk.gumroad.com/l/uiigk)
 
 <center><div>
 <img src="generated_charts/support_images/support_preview_2.png" class="responsive-image"/>
 </div></center>
-
-
-```python
-
-```
