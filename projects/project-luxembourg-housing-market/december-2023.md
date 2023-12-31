@@ -74,7 +74,7 @@ The chart indicates a negative correlation between the average square meter pric
 
 ### Interested in the Detailed Analysis for 12 Cantons?
 
-You can buy a full ~40 pages report for each canton where I am summarizing monthly prices, ads distribution, price correlations, and unique market dynamics. Discover invaluable information and trends in a format that’s both insightful and easy to understand, providing a clear overview of the real estate landscape for informed planning and analysis.
+You can buy a full 36 pages report for each canton (excluding Vianden due to low number of real estate advertisements in December) where I am summarizing monthly prices, ads distribution, price correlations, and unique market dynamics. Discover invaluable information and trends in a format that’s both insightful and easy to understand, providing a clear overview of the real estate landscape for informed planning and analysis.
 
 [🔒 Buy Full PDF Report](https://ivankmk.gumroad.com/l/uiigk)
 
